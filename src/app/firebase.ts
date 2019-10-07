@@ -1,5 +1,5 @@
 const config = {
-    apiKey: "AIzaSyCzb2iiDo2EcVJu2DIwp0DKhEgjO2Si_yY",
+    apiKey: "yourapikey",
     authDomain: "auth-dda12.firebaseapp.com",
     databaseURL: "https://auth-dda12.firebaseio.com",
     projectId: "auth-dda12",
